@@ -1,2 +1,1 @@
-let hello: string = 'hello world'
-document.querySelector('#app')!.append(hello)
+import './reference/class'
